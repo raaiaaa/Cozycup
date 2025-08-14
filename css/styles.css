@@ -130,11 +130,12 @@ nav a:hover {
 .Coffee li img{
     width:349px ;
     height: inherit;
-
+    
 }
 
-.Dessert{
-    padding: 30px 0;
+.Dessert li img {
+    width:349px ;
+    height: inherit;
 }
 
 footer {

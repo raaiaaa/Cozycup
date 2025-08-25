@@ -37,3 +37,15 @@ Email: kertombion@gmail.com**
 <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" >](https://github.com/acesuus)
 
 
+
+<img width="150" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/155365666?v=4">
+
+
+**Name: Rudge Kyle B. Remojo.  
+Email: rudegremojo21@gmail.com**
+
+[<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" >](https://www.facebook.com/remjiie) 
+
+
+[
+<img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" >](https://github.com/raaiaaa)
